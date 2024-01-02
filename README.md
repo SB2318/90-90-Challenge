@@ -2,6 +2,6 @@
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
 ## Consistency
-Long Coding challenges are much like Test matches in cricket.
+Long coding challenges are much like test matches in cricket.
 
-Even if we lose we gain something, Consistency.
+Even if we lose, we will gain something, Consistency.
