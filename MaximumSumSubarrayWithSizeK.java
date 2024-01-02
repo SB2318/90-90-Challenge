@@ -4,7 +4,7 @@ Date: 02/01/2024
 
 Problem Title: Maximum Sum Subarrray with at least size K
 Problem Description : Given an array a of length n and a number k, find the largest sum of the subarray containing at least k numbers. It is guaranteed that the size of array is at-least k.
-
+Problem Category: Array, DSA
 Your Task:  
 You don't need to read input or print anything. Your task is to complete the function maxSumWithK() which takes the array a[], its size n and an integer k as inputs and returns the value of the largest sum of the subarray containing at least k numbers.
 
