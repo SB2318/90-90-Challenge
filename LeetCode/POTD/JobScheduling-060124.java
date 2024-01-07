@@ -1,3 +1,10 @@
+/**
+  Problem Date: 04/01/2024
+  Problem Name: 1235. Maximum Profit in Job Scheduling
+  Problem Link: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+  Problem Category: Array,DSA,DP, Recursion
+*/
+
 class Solution {
     
     int[] dp;
