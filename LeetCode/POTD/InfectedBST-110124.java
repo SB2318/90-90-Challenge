@@ -1,3 +1,15 @@
+/***
+  Problem Date: 11/01/24
+  Problem Name: Amount of Time for Binary Tree to Be Infected
+  Problem Link: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/
+  Proble Category: Tree, DSA,BFS
+
+
+
+*/
+
+
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
