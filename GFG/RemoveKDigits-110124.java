@@ -16,7 +16,7 @@ class Solution {
 
         1. Intution, we have to return the smallest possible number, means we have to arrange the numbers in increasing order,
         Also have to maintain their relative position.
-        2. Don't make the target to remove all large element as soon you see this, and decrease array value.
+        2. Don't make the target to remove all large element as soon as you see it, and decrease array value.
            Rather than try to remove the element from left side, means whenever you see first large element from left side, you will remove 
            it, and will decrease the K value, I guess at this position you can visualise it.
         3. You have to available the number on the top of your data structure, Stack will be the most useful data structure for this purpose.
