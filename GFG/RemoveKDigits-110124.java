@@ -60,9 +60,6 @@ class Solution {
         }
 
       /** PROPERTY OF STACK : LIFO , So we have to add element in reverse order */
-      /** What this code is doing , It is adding each top element of the stack at the end of the String, and similary decreasing the n value */
-
-      /** At last it returns the Substring of S (n, S.size()) */
       
         while(!mystack.empty()){
             
