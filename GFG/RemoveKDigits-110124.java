@@ -14,16 +14,16 @@ class Solution {
 
       /**
 
-        1. Intution, we have to return the smallest possible number, means we have to arrange the numbers in increasing order,
+        1. Intuition, we have to return the smallest possible number, which means we have to arrange the numbers in increasing order,
         Also have to maintain their relative position.
-        2. Don't make the target to remove all large element as soon as you see it, and decrease array value.
-           Rather than try to remove the element from left side, means whenever you see first large element from left side, you will remove 
-           it, and will decrease the K value, I guess at this position you can visualise it.
+        2. Don't make the target remove all large elements as soon as you see it, and decrease the array value.
+           Rather than try to remove the element from the left side, whenever you see the first large element from the left side, you will remove 
+           it, and will decrease the K value, I guess at this position you can visualize it.
         3. You have to available the number on the top of your data structure, Stack will be the most useful data structure for this purpose.
         4. You make available the peak element or max element at the top of the stack.
-        5. If Incoming element is not peak or max, you will start removing the peek from start until you find your incoming element is largest.
+        5. If the Incoming element is not peak or max, you will start removing the peek from the start until you find your incoming element is largest.
            As well as at this time you decrease the K value.
-        6. You have to restrict the entry of the stack also, in this way that it will not contain any leading 0.
+        6. You have to restrict the entry of the stack also, in this way, it will not contain any leading 0.
 
       */
         int n = S.size();
