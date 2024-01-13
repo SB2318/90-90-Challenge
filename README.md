@@ -2,6 +2,11 @@
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
 ## Consistency
+
+
+# Congratulations on maintaining 13 days of consistency with me 🎉😃. Let's continue and complete it for the remaining 97 days.
+
+
 Long coding challenges are much like test matches in cricket.
 
 Even if we lose, we will gain something, Consistency.
