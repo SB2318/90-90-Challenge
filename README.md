@@ -6,6 +6,10 @@ But this time let's start with something else, what is that?
 
 # Congratulations on maintaining 13 days of consistency with me 🎉😃. Let's continue and complete it for the remaining 97 days.
 
+Tell me why I congratulated you at the beginning of 13 days, 13 is unlucky right, it would have been better to stand for one more day. 
+But this unique number will inspire you more or scare you to maintain your own stick. If you say 13 unlucky, then think 1+3 =4. 
+It is lucky.
+
 
 Long coding challenges are much like test matches in cricket.
 
