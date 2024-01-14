@@ -3,7 +3,7 @@
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
 
-## :༗ Consistency ༗:
+# :༗ Consistency ༗:
 Long coding challenges are much like test matches in cricket.
 Even if we lose, we will gain something, Consistency.
 
@@ -11,18 +11,18 @@ Even if we lose, we will gain something, Consistency.
 
 The 90-90 challenge is a personal development challenge where the goal is to dedicate 90 days to learning and mastering a specific skill or subject. It involves consistent practice and improvement over the course of 90 days. The challenge aims to foster discipline, dedication, and skill development within a specific timeframe.
 
-### :༗ Importance of Positivity and Consistent Practice ༗:
+# :༗ Importance of Positivity and Consistent Practice ༗:
 
 The 90-90 challenge emphasizes the importance of maintaining a positive mindset and consistent practice. It encourages individuals to stay focused, dedicated, and open to learning throughout the entire duration of the challenge. This approach can be particularly beneficial in fields such as coding, where continuous practice and a positive attitude are essential for skill development and improvement.
 
-### :༗ Personal Growth and Skill Development ༗:
+# :༗ Personal Growth and Skill Development ༗:
 
 Participating in the 90-90 challenge can lead to significant personal growth and skill development. By consistently practicing coding or participating in coding contests on various platforms, individuals can enhance their problem-solving abilities, logical thinking, and coding proficiency. This can be especially beneficial for individuals in the early stages of their coding journey, as it provides a structured approach to skill enhancement.
 
-###  ༗: Challenge Description ༗:
+#  :༗ Challenge Description ༗:
 The challenge involves dedicating the first 100 days to solving problems on different platforms, participating in coding contests, and continuously improving coding skills. The subsequent 100 days allow for independent continuation of the learning process, thereby fostering self-reliance and further skill development.
 
-###  :༗ Encouragement to Stay Positive and Committed ༗:
+#  :༗ Encouragement to Stay Positive and Committed ༗:
 
 It's important to maintain a positive outlook and commitment throughout the 100-day challenge. By focusing on personal growth, skill enhancement, and consistent practice, individuals can derive maximum benefit from the challenge and significantly improve their coding abilities.
 
