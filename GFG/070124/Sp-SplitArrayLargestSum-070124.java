@@ -1,5 +1,5 @@
 /**
-   Problem Date: 07/01/2023
+   Problem Date: 07/01/2024
    Problem Name: Split Array Largest Sum
    Problem Link: https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1
    Problem Category: Array, DSA, Binary Search
