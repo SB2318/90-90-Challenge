@@ -1,3 +1,11 @@
+/**
+  Problem Date: 18/01/24
+  Problem Name: Climbing Stairs
+  Problem Link: https://leetcode.com/problems/climbing-stairs/description
+  Problem Category: Array, DP
+
+*/
+
 class Solution {
     public int climbStairs(int n) {
 

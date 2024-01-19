@@ -1,3 +1,12 @@
+/**
+  Problem Date: 19/01/24
+  Problem Name: Water the plants
+  Problem Link: https://www.geeksforgeeks.org/problems/water-the-plants--170646/1
+  Problem Category: Array, Searching, Sorting
+    
+*/
+
+
 class Solution {
 public:
     int min_sprinklers(int gallery[], int n) {
