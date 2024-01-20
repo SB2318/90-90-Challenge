@@ -1,3 +1,11 @@
+/**
+  Problem Date: 19/01/2024
+  Problem Name: Top k numbers in a stream
+  Problem Link: https://www.geeksforgeeks.org/problems/top-k-numbers3425/1
+  Problem Category: Collections, Array, Queue, CustomComparator,
+
+*/
+
 class Solution {
   public:
     vector<vector<int>> kTop(vector<int>& arr, int n, int k) {
