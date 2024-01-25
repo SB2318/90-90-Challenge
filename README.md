@@ -47,33 +47,12 @@ First of all, not take it as tasks or assignment, I am giving you a brief why th
 
 C++ and Java both are popular languages to learn and practice DSA. Let's do something different. 
 Try to learn DSA in more than one language. But, go with this, only when you adopt the habit of coding.
-My world for now is about Java, Kotlin, and JavaScript and C++ (rare cases).😅 So I will choose second language among them.
+
 
 ## :༗ Task 1 ༗:
+
 Your First task is to select another programming language along with your current programming language and try to submit your POTD solutions using these two languages every day.  
 
-## :༗ Task 2 ༗:
-
-If you really follow this challenge,  Do you know how much you cover in these 17 days?
-
-From GFG:
-* Solved 9 questions on array.
-* 2 Problems on linked lists
-* 1 Problem in Mathematics
-* 2 Problems from the Stack and 1 Problems from Queue.
-* 4 Problems on String
-* Learn different algorithms like PatternSearching, SlidingWindow, KMP Algorithm, Recursion, and DP.
-
-From Leetcode:
-
-* Solved 9 Problems on an array
-* 1 Problem in Mathematics
-* 4 Problems on Strings
-* 4 Problems On Tree
-* 1 Problem With DataStructure Design
-* Explore DP, LIS, Recursion, and PatienceSort.
-
-There are many theories, with only one truth.
 
 ## :༗ Task 2 ༗:  
 Share your success stories with your near and dears. 
