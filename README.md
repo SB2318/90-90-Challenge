@@ -1,4 +1,4 @@
-# :༗ Welcome 2024 🎉
+# :༗ Welcome 2025 🎉
 
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
