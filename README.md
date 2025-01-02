@@ -1,6 +1,6 @@
 # :༗ Welcome 2025 🎉
 
-Am sorry! Currently busy in an assignment. Will continue and start from 3rd. But you guys need to be consistent. 😇
+## Am sorry! Currently busy in an assignment. Will continue and start from 3rd. But you guys need to be consistent. 😇
 
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
