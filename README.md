@@ -1,6 +1,5 @@
 # :༗ Welcome 2025 🎉
 
-## Am sorry! Currently busy in an assignment. Will continue and start from 3rd. But you guys need to be consistent. 😇
 
 When a new year begins, we welcome it with all our positive energy.
 But this time let's start with something else, what is that? 
@@ -38,9 +37,6 @@ I hope everyone is doing well. First of all, I want to say that taking on this 9
 The thought of not being able to do something on my own in the engineering field should not cross one's mind. There are elders, siblings, Sir, and Ma'am around, but it's important for us to be a little self-reliant. By self-reliant, I mean making an effort first, being with God or any positive energy, and if you find a way, go straight, if not, seek help.
 
 You can take part in this without any kind of negative feelings (fear, anger, hatred), and complete this challenge with utmost positivity. Especially for my younger siblings in the 1st and 2nd years, who are not yet clear about coding, and for the 3rd or 4th-year siblings, who still struggle to grasp coding properly. I haven't taught you anything, I've just consistently practiced with you. Because this is our job, always improving.
-
-Otherwise, I will keep this task private.
-
 
 
 ## :༗ New Task ༗:
