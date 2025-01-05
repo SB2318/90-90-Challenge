@@ -58,6 +58,17 @@ If you like this repo then also give a star at the end, I want to know if this r
 
 All the best everyone! 
 
+## :༗ Collections 2025 ༗:
+
+### Array:
+- [Count Subarray with given XOR](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/030125)
+- [Count all triplets with a given sum within a sorted array](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/040125)
+- [Count pairs with sum less than target](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/050125)
+- [Split Array (Prefix Sum Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/030125)
+- [Shifting Letters (2D Array)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/050125)
+
+### String:
+- [Unique Length-3 Longest Palindromic Subsequece (My favourite)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/040125)
 
 
 
