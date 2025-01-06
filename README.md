@@ -65,7 +65,8 @@ All the best everyone!
 - [Count all triplets with a given sum within a sorted array](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/040125)
 - [Count pairs with sum less than target](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/050125)
 - [Split Array (Prefix Sum Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/030125)
-- [Shifting Letters (2D Array)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/050125)
+- [Shifting Letters (2D-range array | Difference Array Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/050125)
+
 
 ### String:
 - [Unique Length-3 Longest Palindromic Subsequece (My favourite)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/040125)
