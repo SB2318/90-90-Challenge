@@ -66,10 +66,16 @@ All the best everyone!
 - [Count pairs with sum less than target](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/050125)
 - [Split Array (Prefix Sum Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/030125)
 - [Shifting Letters (2D-range array | Difference Array Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/050125)
+- [Minimum operations to move balls | Prefix Sum Technique](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/060125)
+- 
 
 
 ### String:
 - [Unique Length-3 Longest Palindromic Subsequece (My favourite)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/040125)
+- [String Matching | Trie | KMP](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/070125)
+- [Count Prefis Suffix Pair | Trie | KMP](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/080125)
+- [Count Word with Given Prefix | Trie](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/090125)
+- [Word Subset | Set | Mathematics](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/100125)
 
 
 
