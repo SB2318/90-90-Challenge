@@ -56,6 +56,7 @@ All the best everyone!
 - [Count Prefis Suffix Pair | Trie | KMP](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/080125)
 - [Count Word with Given Prefix | Trie](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/090125)
 - [Word Subset | Set | Mathematics](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/100125)
+- [Length Of Longest Distinct Substring | Sliding Window](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/110125)
 
 
 
