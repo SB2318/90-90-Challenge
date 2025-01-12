@@ -61,13 +61,17 @@ All the best everyone!
 ## :༗ Collections 2025 ༗:
 
 ### Array:
-- [Count Subarray with given XOR](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/030125)
-- [Count all triplets with a given sum within a sorted array](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/040125)
-- [Count pairs with sum less than target](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/050125)
+- [Count Subarray with given XOR|Bit Manipulation](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/030125)
+- [Count all triplets with a given sum within a sorted array|Two Pointer Approach](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/040125)
+- [Count pairs with sum less than target|Two Pointer Apptoach](https://github.com/SB2318/90-90-Challenge/tree/main/GFG/050125)
 - [Split Array (Prefix Sum Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/030125)
 - [Shifting Letters (2D-range array | Difference Array Technique)](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/050125)
 - [Minimum operations to move balls | Prefix Sum Technique](https://github.com/SB2318/90-90-Challenge/tree/main/Leetcode/060125)
-- 
+- [Find Pair Sum Closest To Target Value| Two Pointer Approach](https://github.com/SB2318/90-90-Challenge/blob/main/GFG/060125)
+- [Count Pair Sum Equal To Target|Two Pointer Approach](https://github.com/SB2318/90-90-Challenge/blob/main/GFG/070125)
+- [Count Possible Traingle| Two Pointer Approach](https://github.com/SB2318/90-90-Challenge/blob/main/GFG/080125)
+- [Subarray with given sum| Sliding Window Technique](https://github.com/SB2318/90-90-Challenge/blob/main/GFG/090125)
+- [Count Distinct Element | Sliding Window Technique](https://github.com/SB2318/90-90-Challenge/blob/main/GFG/100125)
 
 
 ### String:
