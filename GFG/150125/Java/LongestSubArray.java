@@ -4,6 +4,7 @@
 
 // As this is a famous question, instead of sharing my thoughts, I am sharing article links here from my collection, which might be helpful for all of you. 
 // https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/ 
+// https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/
 
 class Solution {
     
