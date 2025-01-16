@@ -4,7 +4,7 @@
 # You can say it is a prefix sum approach or hashing technique.
 # But It is like a balance problem,
 # Whenever you encounter a 1, you increase the sum, whenever you encounter 0, decrease the sum.
-# The sum is 0, which means till now, you get a balance sub-array, and each time whenever you check checking the sum key is present in the array or not,
+# The sum is 0, which means till now, you get a balance sub-array, and each time whenever you checking, check the sum key is present in the array or not,
 # see for 0 cases, you are storing the max value as i+1, as mp[0] = -1
 # But there is a case when there is more than one consecutive 1, or more than one consecutive 0.
 # To handle the consecutive cases, we again use HashMap, when two sums superimpose each other, we get the distance, and store if it is max.
