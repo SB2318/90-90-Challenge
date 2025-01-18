@@ -22,7 +22,9 @@
 // original or not.
 // Now, do same by assuming original[0]=1
 // Return the possibilities
-
+// P.S: The  similar problem we have solved, where we have used the property (` if a xor b = c, then  a= b xor c or b = a xor c.` ) of xor.
+// Here is the problem link: https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1
+// Solution Link: https://github.com/SB2318/90-90-Challenge/tree/main/GFG/030125
 
 class Solution {
     public boolean doesValidArrayExist(int[] derived) {
