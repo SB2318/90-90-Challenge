@@ -1,7 +1,7 @@
 // Problem Link: https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1
 // Intuition: 🤔
 // See, today I will only share a beginner-friendly approach, with auxiliary space 🧠, maybe there are better ways to solve this 💡, maybe I will practice someday 🏋️‍♂️
-// And yeah! With this answer, I achieved a new milestone of < 1700 points 🎉, and also an 11000 rank 🏅 in the GFG leaderboard.
+// And yeah! With this answer, I achieved a new milestone of < 1700 points 🎉, and also under 11000 rank 🏅 in the GFG leaderboard.
 // Again I love to solve problems ❤️, the rest of the things are like "Upri Paona" (In Bengali) 🤗
 
 // May the solutions also help others to learn coding 💻📚, whoever needs this. 🙌
