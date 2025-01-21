@@ -1,6 +1,10 @@
 # :༗ Welcome 2025 🎉
 
+# I wanted to let you all know that the next update for the repository will be available on Saturday. I apologize for the inconvenience to those who regularly visit my repo, but rest assured, I’ll be sharing some fresh insights on those left problems soon.
 
+# In the meantime, feel free to explore some of the articles and channels I follow and enjoy(If you know, you know). They offer great content and may provide you with inspiration while we wait!
+
+In the meantime, feel free to explore some of the articles and channels I follow and enjoy. They offer great content and may provide you with inspiration while we wait!
 ## :༗ About the 90-90 Challenge ༗:
 
 The 90-90 challenge is a personal development challenge where the goal is to dedicate 90 days to learning and mastering a specific skill or subject. It involves consistent practice and improvement over the course of 90 days. The challenge aims to foster discipline, dedication, and skill development within a specific timeframe.
