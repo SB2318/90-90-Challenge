@@ -1,6 +1,6 @@
 # :༗ Welcome 2025 🎉
 
-##  I wanted to let you all know that the next update for the repository will be available on Saturday(25th Jan, 2024). I apologize for the inconvenience to those who regularly visit my repo, but rest assured, I’ll be sharing some fresh insights on those left problems soon.
+##  I wanted to let you all know that the next update for the repository will be available on Saturday(25th Jan, 2025). I apologize for the inconvenience to those who regularly visit my repo, but rest assured, I’ll be sharing some fresh insights on those left problems soon.
 
 ## In the meantime, feel free to explore some of the articles and channels I follow and enjoy (If you know, you know). They offer great content and may provide you with inspiration while you wait!
 
